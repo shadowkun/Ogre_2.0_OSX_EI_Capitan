@@ -1,7 +1,7 @@
-Simple Test from git co -b mini-test
+>Simple Test from git co -b mini-test
 
-To create mini-test
+-[x]To create mini-test
 
-From branch modifyMini
+-[]From branch modifyMini
 
-From branch mini-test
+-[]From branch mini-test
