@@ -2,3 +2,5 @@ Simple Test from git co -b mini-test
 
 To create mini-test
 
+From branch modifyMini
+
